@@ -1,1 +1,2 @@
 # springboot-rabbitmq
+springboot整合rabbitmq实现消息服务平台
